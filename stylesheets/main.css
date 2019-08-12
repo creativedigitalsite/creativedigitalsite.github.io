@@ -1100,7 +1100,7 @@ color: rgb(255, 255, 255); font-size: 18px;  background-color: rgb(247, 148, 29)
 			-o-background-size:cover;
 			background-size:cover !important;
 		 }
-		.inter_3_bg , .dark.inter_3_bg { background: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)),url(../images/main/image-intro.jpg) fixed #444 center ;
+		.inter_3_bg , .dark.inter_3_bg { background: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)),url(https://1.bp.blogspot.com/-DjDNDLCpV7k/XVG5X0995QI/AAAAAAABD60/VABznY2TFwk9HC1vlpQoWt_LyMdIQNl-ACLcBGAs/s1600/john-towner-JgOeRuGD_Y4-unsplash.jpg) fixed #444 center ;
 			-webkit-background-size:cover;
 			-moz-background-size:cover;
 			-o-background-size:cover;
