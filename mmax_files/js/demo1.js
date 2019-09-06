@@ -1,5 +1,5 @@
 createLandscape({
-  palleteImage:'img/pallete5.png'
+  palleteImage:'https://creativedigitalsite.github.io/mmax_files/img/pallete5.png'
 })
 
 function createLandscape(params){
